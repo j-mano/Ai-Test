@@ -1,0 +1,7 @@
+C:\Users\Joachim\source\repos\AITest\bin\Debug\AITest.exe.config
+C:\Users\Joachim\source\repos\AITest\bin\Debug\AITest.exe
+C:\Users\Joachim\source\repos\AITest\bin\Debug\AITest.pdb
+C:\Users\Joachim\source\repos\AITest\obj\Debug\AITest.csproj.AssemblyReference.cache
+C:\Users\Joachim\source\repos\AITest\obj\Debug\AITest.csproj.CoreCompileInputs.cache
+C:\Users\Joachim\source\repos\AITest\obj\Debug\AITest.exe
+C:\Users\Joachim\source\repos\AITest\obj\Debug\AITest.pdb
